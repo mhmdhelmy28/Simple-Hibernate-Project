@@ -7,6 +7,9 @@
         <class>models.Employee</class>
         <class>models.Car</class>
         <class>models.Contract</class>
+        <class>models.Department</class>
+        <class>models.Project</class>
+        <class>models.Skill</class>
         <properties>
             <property name="hibernate.connection.driver_class" value="com.mysql.cj.jdbc.Driver"/>
             <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/sys"/>
